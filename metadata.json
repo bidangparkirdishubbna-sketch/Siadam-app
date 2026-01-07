@@ -1,0 +1,7 @@
+{
+  "name": "Sistem Aduan Masyarakat (SIADAM)",
+  "description": "A comprehensive community complaint management system integrated with Google Sheets for tracking, reporting, and managing public feedback with AI-powered analysis.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
